@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @InaamIlahi
 - 👀 I’m interested in Python Backend Development
-- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Book Reader 
